@@ -1,7 +1,24 @@
-# Dio Dino Game 
-Dino game for Digital Innovation One's lesson, using only JS, HTML and CSS
+# dio-dino-game
 
-![screenshot](example.png?raw=true "screenshot")
+## Project setup
+```
+npm install
+```
 
-# License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
